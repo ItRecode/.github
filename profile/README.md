@@ -126,5 +126,7 @@
 #### 10. 개인 일정 공유하기
 - 스프린트 시작 전 개인 일정을 미리 공유해요.
 
-### 개발 규칙
+<br>
+
+### 💻 개발 규칙
 [개발 규칙](https://github.com/ItRecode/TEAM/blob/main/README.md)
